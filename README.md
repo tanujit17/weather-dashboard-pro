@@ -90,7 +90,7 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Tanujit Sarma**
 
 ---
 
