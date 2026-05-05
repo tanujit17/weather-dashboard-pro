@@ -70,12 +70,12 @@ streamlit run app.py
 
 ### 🌤️ Dashboard View
 
-![Dashboard](screenshots/1.png)
+![Dashboard](Screenshots/1.png)
 
 
 ### 📊 Forecast Chart
 
-![Chart](screenshots/2.png)
+![Chart](Screenshots/2.png)
 
 ---
 
